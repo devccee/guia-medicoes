@@ -25,7 +25,7 @@ Os detalhes da API e exemplos de implementação, estão disponiveis no manual [
 
 Utilize o serviço *InformarColetaMedicao* para envio das coletas de medições através da Plataforma de Integração da CCEE.
 
-[Clique aqui](https://documenter.getpostman.com/view/12351215/TVCdzTxD#1bdbb540-1ee0-4ae8-a02e-23a52bf9aa18) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
+[Clique aqui](https://documenter.getpostman.com/view/12351215/UzJJucpF#4f88fa78-50e2-4b53-993d-949b33476e8c) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
     
 Os campos de entrada e saída do serviço podem ser consultados no [manual de utilização](https://www.ccee.org.br/documents/80415/919484/Manual%20do%20Usu%C3%A1rio%20-%20Informar%20Coleta%20Medicao.pdf/e1239897-7981-b1ad-ca68-671645fbebf1) desse serviço. 
 
@@ -51,7 +51,7 @@ Os detalhes da API e exemplos de implementação, estão disponiveis no manual [
 
 Se desejado, é possível consultar o status de notificações enviadas. Á consulta está disponível através do serviço *Obter Situação Coleta Medição*.
 
-[Clique aqui](https://documenter.getpostman.com/view/12351215/TVCdzTxD#146bf629-a415-4972-afe0-42e6e78c0021) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
+[Clique aqui](https://documenter.getpostman.com/view/12351215/UzJJucpF#9c19abb5-6114-4ccf-9a50-0f834a6d17ea) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
 
 Os campos de entrada e saída do serviço podem ser consultados no [manual de utilização](https://www.ccee.org.br/documents/80415/919484/Manual%20do%20Usu%C3%A1rio%20-%20Obter%20Situacao%20Coleta%20Medicao.pdf/7736ea26-c9a6-a944-88f3-642a67c6cbd2) desse serviço. 
 
@@ -64,7 +64,7 @@ Existem quatro formas de consultar as medidas registradas na CCEE através da Pl
 
 - **Medida de 5 em 5 minutos** - permite a consulta de medidas consistidas em intervalos de 5 minutos.
     
-    [Clique aqui](https://documenter.getpostman.com/view/12351215/TVCdzTxD#b19d7aac-5e54-4d4c-bdf6-3585d45463fc) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
+    [Clique aqui](https://documenter.getpostman.com/view/12351215/UzJJucpF#2b083490-da52-4e77-a1d0-64251ab71bc2) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
     
     Os campos de entrada e saída do serviço podem ser consultados no [manual de utilização](https://www.ccee.org.br/documents/80415/919484/ListarMedidaCincoMinutosBSv2.pdf/ef5c3678-4fe7-7216-eb34-af41a453d28b) desse serviço. 
     
@@ -74,7 +74,7 @@ Existem quatro formas de consultar as medidas registradas na CCEE através da Pl
     
 - **Medida consolidada** - permite a consulta de medidas consolidadas. Esse serviço retorna através da Plataforma de Integração os mesmos dados do *relatorio de medidas consolidadas* no SCDE.
 
-    [Clique aqui](https://documenter.getpostman.com/view/12351215/TVCdzTxD#b6f7bcb4-913b-48a7-8cdf-5889a6d20e67) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
+    [Clique aqui](https://documenter.getpostman.com/view/12351215/UzJJucpF#71673640-0991-4393-b998-9a4ca7451df2) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
     
     Os campos de entrada e saída do serviço podem ser consultados no [manual de utilização](https://www.ccee.org.br/documents/80415/919484/ListarMedida.pdf/962fa85d-520c-adfa-09ae-b24ed6dfabbc) desse serviço. 
     
@@ -84,7 +84,7 @@ Existem quatro formas de consultar as medidas registradas na CCEE através da Pl
         
 - **Medida faltante** - permite a consulta de períodos contendo dados faltantes.
 
-    [Clique aqui](https://documenter.getpostman.com/view/12351215/TVCdzTxD#27878282-e723-4134-9962-c712ddc39560) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
+    [Clique aqui](https://documenter.getpostman.com/view/12351215/UzJJucpF#3681fa17-a90c-4973-81f3-55379dee015c) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
     
     Os campos de entrada e saída do serviço podem ser consultados no [manual de utilização](https://www.ccee.org.br/documents/80415/919484/ListarMedida.pdf/962fa85d-520c-adfa-09ae-b24ed6dfabbc) desse serviço. 
     
@@ -94,7 +94,7 @@ Existem quatro formas de consultar as medidas registradas na CCEE através da Pl
         
 - **Medida final** - permite a consulta de medidas finais. Esse serviço retorna através da Plataforma de Integração os mesmos dados do *relatorio origem de dados da coleta* no SCDE.
 
-    [Clique aqui](https://documenter.getpostman.com/view/12351215/TVCdzTxD#951b4af2-aa45-4115-b201-5de96f4bab91) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
+    [Clique aqui](https://documenter.getpostman.com/view/12351215/UzJJucpF#7e10d923-1451-47d5-b548-c7fd8336b8df) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
     
     Os campos de entrada e saída do serviço podem ser consultados no [manual de utilização](https://www.ccee.org.br/documents/80415/919484/ListarMedida.pdf/962fa85d-520c-adfa-09ae-b24ed6dfabbc) desse serviço. 
     
@@ -107,7 +107,7 @@ Você pode consultar as informações dos pontos de medição através dos servi
 
 - **Listar pontos de medição por Agente** - esse serviço irá retornar a lista de pontos de medição associados ao perfil do agente informado.
 
-    [Clique aqui](https://documenter.getpostman.com/view/12351215/TVCdzTxD#0f75b858-f471-4854-aa43-719ca5727df5) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
+    [Clique aqui](https://documenter.getpostman.com/view/12351215/UzJJucpF#750252ba-97c2-4d2c-9e91-10e934fd7950) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
     
     Os campos de entrada e saída do serviço podem ser consultados no [manual de utilização](https://www.ccee.org.br/documents/80415/919484/ListarPontoMedicaoBSv2.pdf/eeeababc-8d3b-4a20-b484-4927d7e32450) desse serviço. 
     
@@ -117,7 +117,7 @@ Você pode consultar as informações dos pontos de medição através dos servi
     
 - **Obter Dados do Ponto de Medição** - caso queira saber mais informações de um ponto de medição especifico, esse serviço irá retornar todos os dados cadastrais do ponto de medição informado.
 
-    [Clique aqui](https://documenter.getpostman.com/view/12351215/TVCdzTxD#874a60d9-aa95-453f-998a-e56cbccc2b08) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
+    [Clique aqui](https://documenter.getpostman.com/view/12351215/UzJJucpF#d711f15f-a4d3-44ca-9463-58b55d2a2f41) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
     
 	Os campos de entrada e saída do serviço podem ser consultados no [manual de utilização](https://www.ccee.org.br/documents/80415/919484/ObterPontoMedicaoBSv2.pdf/54818657-9bf7-b15f-c98d-ebca9fb2f9dd) desse serviço.
 	
