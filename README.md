@@ -66,6 +66,8 @@ Existem quatro formas de consultar as medidas registradas na CCEE através da Pl
     
     [Clique aqui](https://documenter.getpostman.com/view/12351215/UzJJucpF#2b083490-da52-4e77-a1d0-64251ab71bc2) para ver exemplos de consulta utilizando a ferramenta Postman em seu  navegador.
     
+    >>> Você precisará obter o código do perfil do agente principal (do Agente Conectante ou do Agente Medição) para realizar a consulta. E ele deverá ser enviado no Header da requisição xml. O serviço Listar Ponto Medição fornece essa informação no retorno da sua consulta.
+    
     Os campos de entrada e saída do serviço podem ser consultados no [manual de utilização](https://www.ccee.org.br/documents/80415/919484/ListarMedidaCincoMinutosBSv2.pdf/ef5c3678-4fe7-7216-eb34-af41a453d28b) desse serviço. 
     
     > Clique no botão abaixo e abra a configuração direto no Postman instalado em seu computador com os serviços da Plataforma de Integração, incluindo o Listar Medidas - 5 minutos
